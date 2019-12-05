@@ -1,2 +1,2 @@
-angular-app/package-lock\.json
-angular-app/src/app/app\.component\.html
+(.*)package-lock\.json
+(.*)src/app/app\.component\.html
